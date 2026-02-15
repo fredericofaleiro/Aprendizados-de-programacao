@@ -74,6 +74,17 @@ section.hero {
   margin: 0 auto 32px;
 }
 
+.content-title {
+  font-size: 28px;
+  font-weight: var(--title-weigth);
+}
+
+.content-text {
+  font-size: 20px;
+  font-weight: var(--text-weigth);
+  line-height: 32px;
+}
+
 @media screen and (min-width: 768px) {
 
   .section-tittle {

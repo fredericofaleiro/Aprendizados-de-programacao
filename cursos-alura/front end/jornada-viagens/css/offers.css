@@ -18,11 +18,6 @@
   margin-bottom: 24px;
 }
 
-.card header p {
-  font-size: 20px;
-  font-weight: var(--text-weigt);
-}
-
 .card header h3 {
   font-size: 40px;
   margin: 8px 0 0;

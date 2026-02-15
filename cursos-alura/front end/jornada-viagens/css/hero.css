@@ -7,10 +7,8 @@
 
 .hero h2 {
   display: block;
-  font-weight: var(--text-weigth);
   text-align: center;
   padding: 88px 24px;
-  line-height: 1.5;
   margin: 0;
 }
 

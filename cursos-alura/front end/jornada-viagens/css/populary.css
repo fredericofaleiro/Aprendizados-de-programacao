@@ -11,16 +11,11 @@
 }
 
 .populary-options h3 {
-  font-size: 28px;
-  font-weight: var(--title-weigth);
   margin-top: 24px;
   margin-bottom: 24px;
 }
 
 .populary-options p {
-  font-size: 20px;
-  font-weight: var(--text-weigth);
-  line-height: 32px;
   width: 312px;
   height: 224px;
   margin-bottom: 24px;
