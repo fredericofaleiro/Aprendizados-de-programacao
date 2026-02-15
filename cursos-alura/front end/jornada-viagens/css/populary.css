@@ -6,6 +6,7 @@
 
 .populary-options .img-osaka-popular {
   background: url(../imgs/Osaka.jpg);
+  margin-top: 40px;
   width: 312px;
   height: 360px;
 }
@@ -22,7 +23,6 @@
 }
 
 .populary-options footer .button {
-  margin-bottom: 40px;
   width: 312px;
   height: 64px;
 }
@@ -38,6 +38,7 @@
   background: url(../imgs/Osaka-tablet.jpg);
   width: 648px;
   height: 452px;
+  margin-top: 0px;
 }
 
   .populary-options p {
