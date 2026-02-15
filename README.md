@@ -1,2 +1,2 @@
-# Cursos-alura
-aqui colocarei todos meus projetos que desenvolvo na alura
+# Aprendizados de programação
+aqui colocarei todos meus projetos/ensinamentos da faculdade unialfa e dos cursos alura
