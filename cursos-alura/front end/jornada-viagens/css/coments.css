@@ -31,4 +31,17 @@
 
 }
 
+@media screen and (min-width:1440px) {
+    .testimonios {
+        display: flex;
+        flex-direction: row;
+        gap: 24px;
+    }
+    
+.testimonios .espacamento{
+    margin-top: 0;
+}
+
+}
+
 
