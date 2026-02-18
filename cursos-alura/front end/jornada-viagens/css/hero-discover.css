@@ -1,0 +1,77 @@
+.hero-discover {
+  background: url(../imgs/Banner-Destino.png) no-repeat;
+  background-size: cover;
+  margin: 0;
+  width: 100%;
+  height: 460px;
+  padding-top: 68px;
+  margin-bottom: 88px;
+}
+
+.section-tittle h1 {
+  font-size: 48px;
+  color: var(--text-secondary-color);
+  width: 312px;
+}
+
+.section-tittle p {
+  color: var(--text-secondary-color);
+  width: 312px;
+}
+
+.hero-discover .section-tittle hr {
+  margin: 16px 0 32px 0;
+}
+
+.hero-discover .section-tittle {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin-left: 16%;
+}
+
+@media screen and (min-width: 768px) {
+  .section-tittle h1 {
+    width: 580px;
+  }
+
+  .section-tittle p {
+    width: 580px;
+    font-size: 32px;
+    line-height: 150%;
+  }
+
+  .hero-discover {
+    background: url(../imgs/Banner-destinos-tablet.png) no-repeat;
+    background-size: cover;
+    height: 450px;
+    padding-top: 150px;
+  }
+
+}
+
+@media screen and (min-width: 1024px) {
+  .hero-discover {
+    background: url(../imgs/Banner-destinos-desktop.png) no-repeat;
+    background-size: cover;
+    height: 300px;
+    padding-top: 150px;
+  }
+}
+
+@media screen and (min-width: 1440px) {
+  .hero-discover {
+    background: url(../imgs/Banner-destinos-desktop.png) no-repeat;
+    background-size: cover;
+    height: 462px;
+    padding-top: 158px;
+  }
+
+  .hero-discover .section-tittle {
+  margin-left: 6%;
+}
+
+.section-tittle p {
+    line-height: 150%;
+  }
+}

@@ -5,29 +5,47 @@
   background-size: cover;
 }
 
+.img-final-pacotes {
+  width: 100%;
+  height: 400px;
+  background: url(../imgs/hero-final-pacotes.png) no-repeat;
+  background-size: cover;
+}
+
 @media screen and (min-width: 768px) {
   .img-final {
-    width: 100%;
-    height: 400px;
     background: url(../imgs/hero-final-tablet.png) no-repeat;
+    background-size: cover;
+  }
+
+  .img-final-pacotes {
+    background: url(../imgs/hero-final-pacotes-tablet.png) no-repeat;
     background-size: cover;
   }
 }
 
 @media screen and (min-width: 1024px) {
   .img-final {
-    width: 100%;
-    height: 400px;
     background: url(../imgs/hero-final-desktop.png) no-repeat;
+    background-size: cover;
+  }
+
+  .img-final-pacotes {
+    background: url(../imgs/hero-final-pacotes-desktop.png) no-repeat;
     background-size: cover;
   }
 }
 
 @media screen and (min-width: 1440px) {
   .img-final {
-    width: 100%;
     height: 600px;
     background: url(../imgs/hero-final-desktop.png) no-repeat;
+    background-size: cover;
+  }
+
+  .img-final-pacotes {
+    height: 600px;
+    background: url(../imgs/hero-final-pacotes-desktop.png) no-repeat;
     background-size: cover;
   }
 }

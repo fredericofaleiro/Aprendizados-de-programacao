@@ -56,6 +56,11 @@ input[type="checkbox"]:checked ~ nav {
     width: 476px;
   }
 
+  .list-links .pacote-viagens {
+    text-decoration: underline;
+    
+  }
+
   .menu {
     display: none;
   }
