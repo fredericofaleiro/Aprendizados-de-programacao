@@ -1,6 +1,6 @@
 let listaDeNumerosEscolhidos = [];
 console.log (listaDeNumerosEscolhidos)
-let numero = 10;
+let numero = 1000;
 let numeroSecreto = gerarNumeroSecreto();
 let tentativas = 0
 
